@@ -1,16 +1,9 @@
 # sum_machine
 
-A new Flutter project.
+Pequeno projeto para criar uma máquina de calcular, o projeto foi feito pensando na plataforma windows, mas seus packages devem funcionar em todas as plataformas atendidas pelo flutter.
 
-## Getting Started
+## Contexto
 
-This project is a starting point for a Flutter application.
+Quando eu era pequeno minha mãe tinha uma dessas calculadoras com rolo de papel e eu era facinado nela porque funcionava de forma diferente das calculadoras normais, você digitava o número e depois o símbolo daquele número e nao o símbolo da operação, isso facilitava muito o cálculo contábil de débito e crédito, uma vez que vc digitava o valor e depois sua natureza.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Só depois de um tempo que fui aprender que aquilo não era bem uma calculadora mas uma máquina de somar, vendo o pessoal fazer projetos de calculadora em Flutter recentemente resolvi criar o presente projeto como uma forma de homenagem a minha mãe que me ensinou a usar essa máquina.
